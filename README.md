@@ -1,1 +1,1 @@
-This is a repo for a Coursera Course
+This is a repository for a Coursera Course
